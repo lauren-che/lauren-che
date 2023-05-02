@@ -23,8 +23,6 @@ I'm Lauren, a Full Stack Software Engineer who specializes in Front End developm
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauren-che&repo=Ready-2-Go-Portfolio-Project&theme=vue-dark&show_icons=true)](https://github.com/lauren-che/Ready-2-Go-Portfolio-Project.git)
 
-The Verdict Group Portfolio Project by Lauren Ché
-
 ---
 
 ### ⚡️ **Programming Languages**
