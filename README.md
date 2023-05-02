@@ -4,9 +4,9 @@
 
 Hey there 👋🏽
 
-I'm Lauren, a Full Stack Software Engineer who specializes in Front End development. I make it my mission to seamlessly convert user-centric designs into flawlessly executed websites or applications with lightning-fast speeds.
+I'm Lauren, a Full Stack Software Engineer who specializes in Front End development. I make it my mission to seamlessly convert user-centric designs into flawlessly executed websites or applications with lightning-fast speeds that are accessible to everyone.
 
-Want to learn more about me? [Checkout My Portfolio](www.laurenche.com)
+<!-- Want to learn more about me? [Checkout My Portfolio](www.laurenche.com) -->
 
 <!-- --- -->
 <!-- #### 📝 Latest Blog Posts -->
@@ -20,6 +20,10 @@ Want to learn more about me? [Checkout My Portfolio](www.laurenche.com)
 ### 📍 Portfolio Project Pins
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauren-che&repo=The-Verdict-Group-Portfolio-Project&theme=vue-dark&show_icons=true)](https://github.com/lauren-che/The-Verdict-Group-Portfolio-Project.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauren-che&repo=Ready-2-Go-Portfolio-Project&theme=vue-dark&show_icons=true)](https://github.com/lauren-che/Ready-2-Go-Portfolio-Project.git)
+
+The Verdict Group Portfolio Project by Lauren Ché
 
 ---
 
