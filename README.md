@@ -4,7 +4,7 @@
 
 Hey there 👋🏽
 
-I'm Lauren, a technology enthusiast living in Cleveland, Ohio.
+I'm Lauren, a technology enthusiast living in Ohio.
 
 I’m passionate about cloud computing, automation, and building secure, reliable technology solutions that solve real-world problems.
 
