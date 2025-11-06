@@ -4,9 +4,9 @@
 
 Hey there 👋🏽
 
-I'm Lauren, a Full Stack Software Developer living in Cleveland, Ohio.
+I'm Lauren, a technology enthusiast living in Cleveland, Ohio.
 
-I make it my mission to seamlessly convert user-centric designs into flawlessly executed websites or applications with lightning-fast speeds that are accessible to everyone.
+I’m passionate about cloud computing, automation, and building secure, reliable technology solutions that solve real-world problems.
 
 <!-- Want to learn more about me? [Checkout My Portfolio](www.laurenche.com) -->
 
